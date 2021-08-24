@@ -1,4 +1,2 @@
 # ci-restserver
-Check the recent version at https://github.com/chriskacerguis/codeigniter-restserver
-
-My alternate version https://github.com/ardisaurus/old-rest-ci
+https://stackoverflow.com/questions/19183311/codeigniter-removing-index-php-from-url?page=2&tab=active#tab-top
